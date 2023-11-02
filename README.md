@@ -1,6 +1,7 @@
 ### HelpDesk: Frontend
 
-<!-- [![Build status](https://ci.appveyor.com/api/projects/status/3elmty4kl7rh1r4k/branch/main?svg=true)](https://ci.appveyor.com/project/marinaustinovich/ahj-homeworks-http-helpdesk-front/branch/main) -->
+[![Build status](https://ci.appveyor.com/api/projects/status/41cycg5jwnopwynt?svg=true)](https://ci.appveyor.com/project/vlknvd/help-desk-front)
+[GITHUB PAGES](https://vlknvd.github.io/help-desk-front/)
 #### Легенда
 
 #### Описание
